@@ -6,6 +6,7 @@ It renders nice, flat progressbars fully customizable with CSS. It can display a
 Kailash Nadh, October 2014
 
 License:	MIT License
+
 Documentation and Demo: http://nadh.in/code/tinyprogressbar
 
 ## Usage
