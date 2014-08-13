@@ -1,4 +1,4 @@
-# tinytabs
+# tinyProgressbar
 tinyProgressbar is an extremely tiny (640 bytes minified+gzipped) Javascript progressbar library.
 
 It renders nice, flat progressbars fully customizable with CSS. It can display absolute values (eg: 25/300) or percentages (eg: 5%) on a progressbar. It also animates progression using CSS transitions.
